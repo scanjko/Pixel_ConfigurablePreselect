@@ -1,2 +1,2 @@
 # Pixel_ConfigurablePreselect
-Preselect cinfigurable option if there is only one option available
+Preselect configurable option if there is only one option available
